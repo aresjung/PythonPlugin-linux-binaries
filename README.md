@@ -1,0 +1,1 @@
+Please see [here](https://github.com/fpbattaglia/PythonPlugin/blob/master/README.md) for installation instruction
